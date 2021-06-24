@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning Vue, Node, Django and Clean Code.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/jhonatan-rambo-8374b81b2/?locale=en_US]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people
 
