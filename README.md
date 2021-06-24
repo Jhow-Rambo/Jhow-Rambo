@@ -64,12 +64,12 @@
 
 ### :zap: Github Stats
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox" alt="Jhonatan's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox" alt="Jhonatan's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Rambo&hide=html&layout=compact&theme=gruvbox" width="37%" alt="Jhonatan's Top Languages">
 
 
-<br>
-<br>
+<br/>
+<br/>
 
 Last Edited on: 23/06/2021
