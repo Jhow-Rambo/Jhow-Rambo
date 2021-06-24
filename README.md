@@ -77,14 +77,14 @@
 
 ### :zap: Github Stats
   
-
-  <div align="left" alt="Jhonatan's Github Stats" width="60%">[![card](https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox)](https://github.com/Jhow-Rambo/)</div>
+  <!--
+  [![card](https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox)](https://github.com/Jhow-Rambo/)
   
   [![Jhow-Rambo](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Rambo&hide=html&layout=compact&theme=gruvbox)](https://github.com/Jhow-Rambo/)
+  -->
+  <<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox)](https://github.com/Jhow-Rambo/" alt="Sumanth's Github Stats" width="60%">
   
-  <!--<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Rambo&hide=html&layout=compact&theme=gruvbox)](https://github.com/Jhow-Rambo/" width="37%" alt="Sumanth's Top Languages">
 
 
 
