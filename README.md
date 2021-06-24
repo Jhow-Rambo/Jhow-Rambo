@@ -78,7 +78,7 @@
 ### :zap: Github Stats
   
 
-  <img align="left" src='[![card](https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox)](https://github.com/Jhow-Rambo/)' alt="Jhonatan's Github Stats" width="60%">
+  <div align="left" alt="Jhonatan's Github Stats" width="60%">[![card](https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox)](https://github.com/Jhow-Rambo/)</div>
   
   [![Jhow-Rambo](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Rambo&hide=html&layout=compact&theme=gruvbox)](https://github.com/Jhow-Rambo/)
   
