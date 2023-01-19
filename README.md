@@ -78,7 +78,10 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Rambo&hide=html&layout=compact&theme=gruvbox" width="37%" alt="Jhonatan's Top Languages">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhow-Rambo" width="100%"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhow-Rambo&theme=gruvbox" width="100%"/>
+
 <br>
 <br>
 <br>
