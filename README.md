@@ -74,11 +74,11 @@
 
 ### :zap: Github Stats
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&theme=gruvbox" alt="Jhonatan's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jhow-Rambo&show_icons=true&theme=gruvbox" alt="Jhonatan's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow-Rambo&hide=html&layout=compact&theme=gruvbox" width="37%" alt="Jhonatan's Top Languages">
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhow-Rambo" width="100%"/>
 <br>
 <br>
 <br>
